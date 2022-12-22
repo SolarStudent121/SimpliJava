@@ -9,5 +9,11 @@
         <module name="SimpliJava" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SimpliJava" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="RmicSettings">
+    <option name="IS_EANABLED" value="true" />
   </component>
 </project>

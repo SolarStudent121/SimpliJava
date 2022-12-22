@@ -3,8 +3,8 @@ package com.solarstudent121.simplijava;
 import java.io.Console;
 /**
  * The {@code J} class contains the methods in java in the {@code java.lang.System} class.
- * 
  * @version 1.0
+ * @author SolarStudent121
  */
 public final class J {
 

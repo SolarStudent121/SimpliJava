@@ -9,6 +9,7 @@ import java.net.URI;
  * The {@code G} class contains the methods in java associated to GUI.
  * 
  * @version 1.0
+ * @author SolarStudent121
  */
 public final class G {
 

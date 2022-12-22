@@ -10,7 +10,9 @@ import java.util.Scanner;
 
 
 /**
- *
+ * The {@code IO} class adds I/O functionality.
+ * @version 1.0
+ * @author SolarStudent121
  */
 public final class IO {
 
@@ -19,8 +21,8 @@ public final class IO {
     static {
         try {
             resourceBundle = new PropertyResourceBundle(new FileReader((".properties"), StandardCharsets.UTF_8));
-        } catch (IOException ignored) {
-
+        } catch (IOException e) {
+            L.logerror(e);
         }
     }
 

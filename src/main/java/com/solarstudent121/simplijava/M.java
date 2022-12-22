@@ -1,7 +1,9 @@
 package com.solarstudent121.simplijava;
 
 /**
- *
+ * The {@code M} class provides mathematical functions.
+ * @version 1.0
+ * @author SolarStudent121
  */
 public final class M {
     /**
@@ -23,6 +25,7 @@ public final class M {
      * @return square of number
      */
     public static double sq(double x) {
+
         return x*x;
     }
     /**
