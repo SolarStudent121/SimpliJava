@@ -6,7 +6,7 @@
 
     <groupId>com.solarstudent121.simplijava</groupId>
     <artifactId>simplijava</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
     <name>SimpliJava</name>
     <packaging>jar</packaging>
     <url>https://github.com/SolarStudent121/SimpliJava</url>
@@ -96,8 +96,8 @@
     </dependencies>
 
     <properties>
-        <maven.compiler.source>18</maven.compiler.source>
-        <maven.compiler.target>18</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
